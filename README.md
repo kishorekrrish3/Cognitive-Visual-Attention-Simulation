@@ -1,7 +1,3 @@
-Got it ✅
-Here’s a **fully formatted `README.md`** file for your **Cognitive Visual Attention Simulation** project, written in proper **Markdown** code so you can copy-paste directly into your GitHub repo:
-
-```markdown
 # 🧠 Cognitive Visual Attention Simulation
 
 A **Streamlit-based Cognitive AI project** that simulates how human visual attention works.  
@@ -30,7 +26,6 @@ This project demonstrates how a cognitive system processes an image using **sali
 visual\_attention\_streamlit/
 │── app.py              # Main Streamlit app
 │── requirements.txt    # Dependencies
-│── assets/             # (Optional) Place demo images here
 │── README.md           # Documentation
 
 ````
@@ -160,9 +155,4 @@ This project fits well for **Cognitive AI coursework** because:
 
 This project is open-source under the [MIT License](LICENSE).
 
-```
-
----
-
-👉 Do you also want me to **write the `requirements.txt` file** properly so your GitHub repo is instantly runnable?
 ```
